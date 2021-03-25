@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saatvik21&label=Profile%20views&color=0e75b6&style=flat" alt="saatvik21" /> </p>
 
-- 🔭 I’m currently participating in **GSSOC'21**
+- 🔭 I’m currently participating in **GSSoC'21**
 
 - 🌱 I’m currently learning **React, Node JS & Databases**
 
