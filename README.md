@@ -20,4 +20,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saatvik21&show_icons=true&locale=en" alt="saatvik21" /></p>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saatvik21&label=Profile%20views&color=0e75b6&style=flat" alt="saatvik21" /> </p>
