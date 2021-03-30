@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
 <h3 align="center">A CSE Sophomore who loves to explore the world of programming.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saatvik21&label=Profile%20views&color=0e75b6&style=flat" alt="saatvik21" /> </p>
 
 - 🔭 I’m currently participating in **GSSoC'21**
 
@@ -11,8 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saatviknagpal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saatviknagpal" height="30" width="40" /></a>
-<a href="https://instagram.com/saatvik_nagpal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saatvik_nagpal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saatviknagpal/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/saatvik_nagpal">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saatvik21&show_icons=true&locale=en" alt="saatvik21" /></p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saatvik21&label=Profile%20views&color=0e75b6&style=flat" alt="saatvik21" /> </p>
+
+
+[<img src="https://spotify-readme-gules.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31tqskg6djorwiumedgoramcxfvu)
