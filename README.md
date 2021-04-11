@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently participating in **GSSoC'21**
 
-- 🌱 I’m currently learning **React, Node JS & Databases**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I listen to music almost 8 hours a day**
 
