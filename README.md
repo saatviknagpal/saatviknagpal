@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
-<h3 align="center">A CSE Sophomore who loves to explore the world of programming.</h3>
+<h3 align="center">A CSE Sophomore who loves to explore the world of programming.</h3> <br>
+
 
 - 🔭 I’m currently participating in **GSSoC'21**
 
