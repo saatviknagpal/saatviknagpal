@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
 <h3 align="center">A CSE Sophomore who loves to explore the world of programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saatvik21&label=Profile%20views&color=0e75b6&style=flat" alt="saatvik21" /> </p>
-
 - 🔭 I’m currently participating in **GSSoC'21**
 
 - 🌱 I’m currently learning **React**
