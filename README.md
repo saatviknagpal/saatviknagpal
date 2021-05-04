@@ -36,11 +36,12 @@
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+<h3 align="left">My Stats:</h3>
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saatvik21&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
 <br>
 
-
-[<img src="https://spotify-readme-gules.vercel.app/api/spotify-playing" alt="Spotify Playing" width="500" />](https://open.spotify.com/user/31tqskg6djorwiumedgoramcxfvu)
+<h3 align="left">Spotify PLaying</h3>
+<img src="https://spotify-readme-gules.vercel.app/api/spotify-playing" alt="Spotify Playing" width="500" />](https://open.spotify.com/user/31tqskg6djorwiumedgoramcxfvu)
