@@ -44,4 +44,5 @@
 <br>
 
 <h3 align="left">Spotify Playing 🎵: </h3>
+
 [<img src="https://spotify-readme-gules.vercel.app/api/spotify-playing" alt="Spotify Playing" width="500" />](https://open.spotify.com/user/31tqskg6djorwiumedgoramcxfvu)
