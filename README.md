@@ -38,8 +38,8 @@
 <h3 align="left">My Stats:</h3>
 
 <p align = "left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saatvik21&show_icons=true&count_private=true&theme=dark&hide_border=true" width="450">&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saatvik21&theme=dark&hide_border=true" width="450">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=saatvik21&show_icons=true&count_private=true&theme=dark&hide_border=true" width="42%">&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saatvik21&theme=dark&hide_border=true" width="42%">&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Spotify Playing 🎵: </h3>
