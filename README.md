@@ -37,10 +37,10 @@
 
 <h3 align="left">My Stats:</h3>
 
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saatvik21&show_icons=true&count_private=true&theme=dark" width="500"></a>
+<p align = "left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saatvik21&show_icons=true&count_private=true&theme=dark&hide_border=true" width="450">&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saatvik21&theme=dark&hide_border=true" width="450">&nbsp;&nbsp;
 </p>
-<br>
 
 <h3 align="left">Spotify Playing 🎵: </h3>
 
