@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
 <h3 align="center">A CSE Sophomore who loves to explore the world of programming.</h3> <br>
 
-- 🌱 I’m currently working on some projeccts and learning **Data Structures and Algorithms**
+- 🌱 I’m currently working on some projects and learning **Data Structures and Algorithms**
 
 - ⚡ Fun fact **I listen to music almost 8 hours a day**
 
