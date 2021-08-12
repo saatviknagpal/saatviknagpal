@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on some projects and learning **Data Structures and Algorithms**
 
-- ⚡ Fun fact **I listen to music almost 8 hours a day**
+- ⚡ Fun fact **I listen to music almost 6 hours a day with my cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
