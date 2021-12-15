@@ -40,8 +40,8 @@
 Github Stats         |  Streak Stats
 :-------------------------:|:-------------------------:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saatviknagpal&show_icons=true&count_private=true&theme=dark&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saatviknagpal&theme=dark&hide_border=true)
-<!-- 
-<h3 align="left">Spotify Playing 🎵: </h3> -->
+
+<!-- <h3 align="left">Spotify Playing 🎵: </h3> --> 
 
 <!-- [<img src="https://spotify-readme-gules.vercel.app/api/spotify-playing" alt="Spotify Playing" width="500" />](https://open.spotify.com/user/31tqskg6djorwiumedgoramcxfvu)
  -->
