@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
 <h3 align="center">A CSE Junior who loves to explore the world of programming.</h3> <br>
 
-- 🌱 I’m currently looking for web development internships and learning **Data Structures and Algorithms**
-
+- 🌱 I’m currently working as a frontend developer at TGH Technologies.
 - ⚡ Fun fact **I listen to music almost 6 hours a day.**
 
 <h3 align="left">Connect with me:</h3>
