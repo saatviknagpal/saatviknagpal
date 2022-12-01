@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
-<h3 align="center">A CSE Junior who loves to explore the world of programming.</h3> <br>
+<h3 align="center">A CSE Senior who loves to explore the world of programming.</h3> <br>
 
 - 🌱 I’m currently practising DSA.
 - ⚡ Fun fact **I listen to music almost 6 hours a day.**
