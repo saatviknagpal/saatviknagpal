@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nagpal.saa@northeastern.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10p5otJl2w1lMZdqKOxWGhZKFwhZzYZIT/view?usp=sharing])
+- 📄 Know about my experiences https://drive.google.com/file/d/10p5otJl2w1lMZdqKOxWGhZKFwhZzYZIT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
