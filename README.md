@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React.js, Next.js, Node.js**
 
-- 📫 How to reach me **nagpal.saa@northeastern.edu**
+- 📫 How to reach me **saatvikn@usc.edu**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/10p5otJl2w1lMZdqKOxWGhZKFwhZzYZIT/view?usp=sharing)
 
