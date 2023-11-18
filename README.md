@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saatvikn@usc.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d5-vcA84vT1L7hbh7RlbgtLpsJNHma5S/view?usp=sharing))
+- 📄 Know about my experiences: [Resume 📃](https://drive.google.com/file/d/1d5-vcA84vT1L7hbh7RlbgtLpsJNHma5S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
