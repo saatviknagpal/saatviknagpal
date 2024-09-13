@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
 <h3 align="center">A Passionate Full Stack Developer: Crossing Borders, Conquering Hackathons, and Cultivating Open Source</h3>
 
-- 👨‍💻 All of my projects are available at [https://saatviknagpal.me/](https://saatviknagpal.me/)
+- 👨‍💻 All of my projects are available at [https://saatviknagpal.me/](https://saatviknagpal.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js, Node.js**
 
