@@ -1,40 +1,54 @@
 <h1 align="center">Hi 👋, I'm Saatvik Nagpal</h1>
-<h3 align="center">A Full Stack & AI Developer building scalable, cloud-native applications.</h3>
+<h3 align="center">Full Stack & AI Engineer building the platform behind RL environments and AI agents.</h3>
 
 <p align="center">
-<a href="https://github.com/saatviknagpal" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" />
-</a>
 <a href="https://linkedin.com/in/saatviknagpal" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://saatviknagpal.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" />
+<a href="mailto:recruitsaatvik@gmail.com">
+<img src="https://img.shields.io/badge/Email-recruitsaatvik%40gmail.com-blue?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
-About Me
-🎓 I have completed my Master's in Computer Science at the 
+## About Me
 
-University of Southern California (USC).
+- 💼 Most recently a **Member of Technical Staff at Mercor**, building the platform around RL environments and delivering 20+ client projects end to end.
+- 🎓 M.S. in Computer Science from the **University of Southern California (USC)**.
+- 🏆 **Smart India Hackathon 2022** Grand Finale Winner.
+- 💬 Ask me about Python, TypeScript, React/Next.js, FastAPI, PostgreSQL, LLM evals, and AWS.
+- 📫 Reach me at **recruitsaatvik@gmail.com**.
 
-🚀 My most recent role was developing full-stack AI solutions as a 
+## Featured Projects
+<details>
+<summary><b>Adloom | AI Video Ad Generator (UCLA Gemini API Hackathon)</b></summary>
+<br>
+Generated localized video ads for 3 markets from a single creative brief in 24 hours by chaining Gemini 2.5 Flash, Imagen 3, and Veo 3, with Inngest running the async generation jobs.
+<br><br>
+<b>Tech Stack:</b> Next.js, TypeScript, Gemini 2.5 Flash, Imagen 3, Veo 3, PostgreSQL, Inngest, Docker.
+<br>
+<a href="https://github.com/saatviknagpal/adloom">GitHub</a> · <a href="https://www.youtube.com/watch?v=lNmp-ElddPY">Demo</a>
+</details>
 
-Software Engineer at Headstarter AI.
+<details>
+<summary><b>VOCTV Console | Simulated OCT + Vibrometry Acquisition Console</b></summary>
+<br>
+Desktop console that simulates a Volumetric OCT and Vibrometry system, streaming live B-scans, A-scans, vibration traces, tuning curves, and a 3D basilar-membrane surface at 20 fps. The device runs on a worker thread behind a swappable hardware interface, verified by 34 Qt Test cases in CI.
+<br><br>
+<b>Tech Stack:</b> C++17, Qt 6, CMake, Qt Test, GitHub Actions.
+<br>
+<a href="https://github.com/saatviknagpal/voctv-console">GitHub</a>
+</details>
 
-🏆 I am a 
+<details>
+<summary><b>AI FlashCards | Generative AI SaaS</b></summary>
+<br>
+Shipped a generative AI flashcard app that reached 30+ active users and 500+ generated flashcards, with Clerk auth, Stripe payments, and Firebase real-time updates.
+<br><br>
+<b>Tech Stack:</b> Next.js, LangChain, OpenAI, Tailwind CSS, Clerk, Firebase, Stripe.
+<br>
+<a href="https://ai-flashcards-saas.vercel.app">Live</a> · <a href="https://github.com/saatviknagpal/ai-flashcards">GitHub</a>
+</details>
 
-Smart India Hackathon 2022 Grand Finale Winner and have achieved recognition in multiple other coding competitions.
-
-💬 Ask me about Java, Spring Boot, Microservices, React.js, Next.js, and AWS.
-
-📫 You can reach me at 
-
-saatvikn@usc.edu.
-
-📄 View my full experiences on my Resume.
-
-Featured Projects
 <details>
 <summary><b>FitCoach | Microservice Fitness Coaching Platform</b></summary>
 <br>
@@ -43,7 +57,7 @@ Engineered a microservice fitness-coaching platform that broadcasts workout even
 
 
 <br><br>
-<b>Tech Stack:</b> Spring Boot, Next.js, AWS, RabbitMQ, Docker CI/CD, PostgreSQL, MongoDB , Gemini Al.
+<b>Tech Stack:</b> Spring Boot, Next.js, AWS, RabbitMQ, Docker CI/CD, PostgreSQL, MongoDB, Gemini AI.
 
 
 
@@ -64,22 +78,7 @@ Architected an event-driven expense tracker using Spring Boot microservices on K
 <br>
 </details>
 
-<details>
-<summary><b>AI FlashCards | Generative AI SaaS</b></summary>
-<br>
-Built a full-stack generative flashcard SaaS using OpenAI and LangChain. The platform integrates Clerk for secure access control and Stripe for monetization.
-
-
-
-<br><br>
-<b>Tech Stack:</b> Next.js, LangChain, OpenAI, Tailwind CSS, Clerk, Firebase , Stripe.
-
-
-
-<br>
-</details>
-
-Languages and Tools
+## Languages and Tools
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -106,7 +105,7 @@ Languages and Tools
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-GitHub Stats
+## GitHub Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saatviknagpal&show_icons=true&theme=dark&locale=en&layout=compact" alt="saatviknagpal" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saatviknagpal&show_icons=true&theme=dark&locale=en" alt="saatviknagpal" />
